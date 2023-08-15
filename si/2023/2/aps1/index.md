@@ -1,1 +1,9 @@
-APS1
+# APS1
+
+**PROPOSTA DA
+ATIVIDADE PRÁTICA SUPERVISIONADA APS-1 DE SISTEMAS DE INFORMAÇÃO**
+*Prof. Humberto Sandmann*
+
+**DATA ENTREGA** : *04 / setembro / 2023*
+
+**Proposta: *X***
