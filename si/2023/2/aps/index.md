@@ -8,34 +8,34 @@
 
 ## APS-1
 <details>
-    <summary>ENTREGA: 04 / setembro / 2023</summary>
+<summary>ENTREGA: 04 / setembro / 2023</summary>
 
-    ### Introdução
+### Introdução
 
-    Teste
+Teste
 
-    ### Aquisição de dados da BOVESPA
+### Aquisição de dados da BOVESPA
 
-    ### O que deve ser realizado?
+### O que deve ser realizado?
 
-    ### O que deve ser entregue?
-    teste
+### O que deve ser entregue?
+teste
 
 </details>
 
 ## APS-2
 <details>
-    <summary>ENTREGA: 04 / setembro / 2023</summary>
+<summary>ENTREGA: 04 / setembro / 2023</summary>
 
-    ### Introdução
+### Introdução
 
-    Teste
+Teste
 
-    ### Aquisição de dados da BOVESPA
+### Aquisição de dados da BOVESPA
 
-    ### O que deve ser realizado?
+### O que deve ser realizado?
 
-    ### O que deve ser entregue?
-    teste
+### O que deve ser entregue?
+teste
 
 </details>
