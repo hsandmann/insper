@@ -11,9 +11,9 @@
 
 * Local de entrega: **Blackboard**. Não existe entrega por quaisquer outros meios.
 * Prazo: cada APS tem sua data de entrega, sendo que sua execução comtempla tempo hábil, sendo assim, entregas fora do prazo não serão consideradas, por isso, evite o risco de envio nos últimos instantes, faça entregas parciais, se necessário - APENAS A ÚLTIMA ENTREGA SERÁ CONSIDERADA.
-* Cada grupo deverá submeter seu relatório no Login de um único membro do grupo. Grupos que submeterem material em mais de um Login de membro sofrerão punição na nota, portanto, organizem-se.
-* O feedback a respeito da APS será dado através do Login do aluno que submeteu o relatório, ficando este responsável por repassar o feedback aos demais integrantes do grupo.
-* Na ocorrência de um membro do grupo não estar participando dos trabalhos, cabe aos demais membros - **o quanto antes** - avisar ao Professor e caso não seja encontrada uma solução amigável, os executores do trabalho não devem colocar o nome do aluno na capa do trabalho relalando o ocorrido ao Professor pelo e-mail: [humbertors@insper.edu.br](humbertors@insper.edu.br), com cópia ao(s) aluno(s) excluído(s).
+* Cada grupo deverá submeter seu relatório no login de um único membro do grupo. Grupos que submeterem material em mais de um login de membro sofrerão punição na nota, portanto, organizem-se.
+* O feedback a respeito da APS será dado através do login do aluno que submeteu o relatório, ficando este responsável por repassar o feedback aos demais integrantes do grupo.
+* Na ocorrência de um membro do grupo não estar participando dos trabalhos, cabe aos demais membros - **o quanto antes** - avisar ao Professor e caso não seja encontrada uma solução amigável, os executores do trabalho não devem colocar o nome do aluno na capa do trabalho relalando o ocorrido ao Professor pelo e-mail: [humbertors@insper.edu.br](emailto:humbertors@insper.edu.br), com cópia a todos alunos do grupo, **inclusive** ao(s) aluno(s) excluído(s).
 * Formato da entrega: relatório em **Word** (docx), dentro dos padrões da ABNT.
 
 **Sumário:**
@@ -26,7 +26,7 @@
 ## APS-1
 
 <details>
-<summary>ENTREGA: **04 / setembro / 2023**</summary>
+<summary>ENTREGA: **04 / setembro / 2023**</summary><p>
 
 ### Introdução
 
@@ -40,7 +40,7 @@ Teste
 
 teste
 
-</details>
+</p></details>
 
 ## APS-2
 
