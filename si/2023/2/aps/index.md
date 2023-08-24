@@ -1,11 +1,13 @@
 # SISTEMAS DE INFORMAÇÃO
 
-**APS: ATIVIDADE PRÁTICA SUPERVISIONADA**
+**APS :: ATIVIDADE PRÁTICA SUPERVISIONADA : 2023.2**
 
-*Prof. Humberto Sandmann*
-[humbertors@insper.edu.br](humbertors@insper.edu.br)
+*[Prof. Humberto Sandmann](https://hsandmann.github.io/)*
+[humbertors@insper.edu.br](emailto:humbertors@insper.edu.br)
 
-**Proposta: *X***
+**Proposta:**
+> **MACD - Moving Average Convergence/Divergence**
+> [Investopedia - MACD](https://www.investopedia.com/terms/m/macd.asp)
 
 **Entregas:**
 
@@ -25,8 +27,7 @@
 
 ## APS-1
 
-<details>
-<summary>ENTREGA: **04 / setembro / 2023**</summary><p>
+> ENTREGA: **04 / setembro / 2023**
 
 ### Introdução
 
