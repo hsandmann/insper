@@ -8,8 +8,8 @@
 
 **Proposta:**
 > **MACD - Moving Average Convergence/Divergence**
-> [Investopedia - MACD]
-> (https://www.investopedia.com/terms/m/macd.asp)
+>
+> [Investopedia - MACD](https://www.investopedia.com/terms/m/macd.asp)
 
 **Entregas:**
 
