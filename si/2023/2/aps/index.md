@@ -27,15 +27,19 @@
 3. [APS-3](#aps-3)
 4. [APS-4](#aps-4)
 
-## APS-1
+## 1 APS-1
 
 > ENTREGA: **04 / setembro / 2023**
 
-### Introdução
+### 1.1 Introdução
 
-Teste
+Para esse primeiro trabalho, vamos nos ater apenas em medidas estatísticas e no cálculo mais simples da **MACD** e indicar suas classificações. Para análise do trabalho, o grupo deve-se ater somente às empresas da BOVESPA.
 
 ### Aquisição de dados da BOVESPA
+
+Como visto em sala de aula, pode-se adquirir dados de diversas fontes, entre elas o [Yahoo Finance!](https://finance.yahoo.com/) e [InfoMoney](https://www.infomoney.com.br/). Na versão do Yahoo Finance, o site tem o seguinte formato.
+
+![Finance Yahoo](./financeyahoo.png)
 
 ### O que deve ser realizado?
 
@@ -43,25 +47,16 @@ Teste
 
 teste
 
-</p></details>
 
 ## APS-2
 
-<details>
-<summary>ENTREGA: 25 / setembro / 2023</summary>
+> ENTREGA: **25 / setembro / 2023**
 
-</details>
 
 ## APS-3
 
-<details>
-<summary>ENTREGA: 16 / outubro / 2023</summary>
-
-</details>
+> ENTREGA: **16 / outubro / 2023**
 
 ## APS-4
 
-<details>
-<summary>ENTREGA: 22 / novembro / 2023</summary>
-
-</details>
+> ENTREGA: **22 / novembro / 2023**
