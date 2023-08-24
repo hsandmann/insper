@@ -1,4 +1,4 @@
-# SISTEMAS DE INFORMAÇÃO
+# INSPER :: SISTEMAS DE INFORMAÇÃO
 
 **APS :: ATIVIDADE PRÁTICA SUPERVISIONADA : 2023.2**
 
@@ -8,7 +8,8 @@
 
 **Proposta:**
 > **MACD - Moving Average Convergence/Divergence**
-> [Investopedia - MACD](https://www.investopedia.com/terms/m/macd.asp)
+> [Investopedia - MACD]
+> (https://www.investopedia.com/terms/m/macd.asp)
 
 **Entregas:**
 
