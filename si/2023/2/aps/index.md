@@ -3,6 +3,7 @@
 **APS :: ATIVIDADE PRÁTICA SUPERVISIONADA : 2023.2**
 
 *[Prof. Humberto Sandmann](https://hsandmann.github.io/)*
+
 [humbertors@insper.edu.br](emailto:humbertors@insper.edu.br)
 
 **Proposta:**
