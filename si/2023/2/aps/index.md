@@ -44,7 +44,7 @@ Como visto em sala de aula, pode-se adquirir dados de diversas fontes, entre ela
 
 Para a aquisição dos dados basta escolher o símbolo (ticker) da ação (PETR4, USIM5, GGBR4, VALE3, BBASE3, etc... (consulte no site da Bovespa os símbolos) na caixa chamada de "Procurar cotações" conforme mostrado a seguir. O exemplo mostra a ação da Petrobras (PETR4).
 
-![PETR4.SA](./yahoopetr4.png)
+![PETR4.SA](./petr4yahoo.png)
 
 Sempre se deve escolher a ação com final *.SA no site do Yahoo e nunca com a letra F. Por exemplo, no caso da Petrobras a ação deve ser PETR4.SA e não PETR4F.SA, ou seja, o correto é sem a letra F (as letras depois do número indicam outros tipos de operações).
 
@@ -54,9 +54,59 @@ Uma vez escolhida a ação, o web site direciona para uma tabela com diversas fu
 
 Depois de clicar em "dados históricos", abre-se outra página. Observe que existe uma opção para escolher o período desejado. Escolha o período desejado (será definido na próxima seção) para começar a fazer o trabalho. Isso se chama frequência "diária". Não se esqueça de, depois de escolhido o período, clicar no botão **"APLICAR"**:
 
-![Frequency and Apply](./petre4historicalapply.png)
+![Frequency and Apply](./petr4historicalapply.png)
 
-Logo abaixo do botão "Aplicar" há um link "download", ao clicar será iniciado um download de um arquivo com os dados com o formato *.CSV do Excel. Os dados vão ser baixados em formato do Excel, mas do tipo *.CSV, que é um formato de texto onde o Excel não consegue fazer nenhuma operação.
+Logo abaixo do botão "Aplicar" há um link "download", ao clicar será iniciado um download de um arquivo com os dados com o formato ***.CSV** do Excel. Os dados vão ser baixados em formato do Excel, mas do tipo *.CSV, que é um formato de texto onde o Excel não consegue fazer nenhuma operação.
+
+![PETR4.SA Download](petr4download.png)
+
+Na pasta de download de seu computador, o arquivo vai aparecer da seguinte forma:
+
+![PETR4.SA Icone](petr4icone.png)
+
+#### Formatando o arquivo para o Excel
+
+- Clique no arquivo *.CSV que foi baixado e abra ele no Excel.
+
+![PETR4.SA Abrir](petr4open.png)
+
+- Note que o Excel avisa que você está abrindo um .CVS e quem alterações podem não ser salvas. Então, para evitar perdas futuras, clique na opção de **"Salvar como..."**.
+
+![PETR4.SA Salvar como...](petr4excelsaveas.png)
+
+Salve com extensão .XLSX (Pasta de Trabalho do Excel). É sugerido o nome de **aps1.xlsx** para o arquivo.
+
+![PETR4.SA Salvar XLSX](petr4savexlsx.png)
+
+- Marque a **Coluna A** inteira que está completa com os dados em formato texto.
+
+![PETR4.SA Seleciona coluna A](petr4selectA.png)
+
+- Escolha na aba **"Dados"** o comando **"Texto para Colunas"** conforme mostrado a seguir:
+ 
+![PETR4.SA Texto para coluna](petr4textoparacoluna.png)
+
+- Siga os passos para formatar o texto como dados do Excel.
+
+- Escolha o formato "delimitado"
+
+![PETR4.SA Delimitado](petr4delimitado.png)
+
+- Clique em **"vírgula"**. Isso porque seus dados vieram do Yahoo separados por vírgula, pois o formato é texto. Cada vírgula indica o dado de uma coluna.
+
+![PETR4.SA Separação por vírgula](petr4separacaovirgula.png)
+
+- Na próxima tela, etapa, escolher **"avançado..."** e trocar vírgulas por ponto decimal e ponto decimal por vírgula no separador de milhar. **ATENÇÃO: SE O SEU COMPUTADOR ESTIVER FORMATADO PARA INGLÊS, NÃO PRECISA FAZER ESSE PASSO, POIS O PONTO DECIMAL É O PADRÃO INGLÊS PARA CASAS DECIMAIS.**
+
+![PETR4.SA Separador decimal](petr4decimal.png)
+
+- Agora, basta concluir.
+
+Ao final, você deverá ter os dados no formato do Excel conforme mostrado abaixo. Verifique se o dados estão coerentes com os dados do site do Yahoo.
+
+![PETR4.SA Importado](petr4importado.png)
+
+
 
 
 ### 1.3 O que deve ser realizado?
